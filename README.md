@@ -10,6 +10,10 @@ REST API для блога с пользователями и постами.
 - Docker
 - Docker Compose
 
+## 📷 API Preview
+![Swagger UI](swagger-blog-api.png)
+
+---
 ## 📦 Возможности
 
 - Создание пользователей
